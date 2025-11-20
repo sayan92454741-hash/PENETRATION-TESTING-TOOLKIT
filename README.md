@@ -24,6 +24,9 @@ The port scanner created in this project performs a simple yet effective scan by
 
 For example, ports like 135, 139, and 445 are often associated with Windows networking protocols (RPC, NetBIOS, SMB). If these ports are open on a machine that does not require them, it may indicate poor configuration and a potential attack surface. By detecting open ports, administrators can take corrective action such as closing unnecessary ports, enabling firewalls, or updating vulnerable services.
 
+# OUTPUT
+<img width="622" height="591" alt="Image" src="https://github.com/user-attachments/assets/f3561e7b-1740-4245-a4ac-2a347787f5b3" /> 
+
 2. Brute-Forcer Module
 
 The brute-forcer module is designed to simulate password-guessing attacks in a safe and controlled environment. Brute-force attacks occur when an attacker repeatedly tries different username and password combinations until the correct one is found. Although simple, this method remains one of the most common attack techniques due to weak or reused passwords.

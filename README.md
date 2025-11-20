@@ -16,7 +16,7 @@
 
 Penetration testing is an essential part of cybersecurity, used to identify security weaknesses before real attackers can exploit them. This project focuses on building two important modules commonly found in penetration testing toolkits: a Port Scanner and a Brute-Force Authentication Tester. Together, these modules help security professionals analyze system exposure, check for weak login mechanisms, and understand network vulnerabilities in a controlled, legal environment.
 
-1. Port Scanner Module
+# 1. Port Scanner Module
 
 A port scanner is a tool used to identify which network ports on a target machine are open, closed, or filtered. Every device connected to a network uses ports to send and receive data. Some ports correspond to specific services (e.g., Port 80 for HTTP, Port 443 for HTTPS, Port 22 for SSH, Port 445 for SMB, etc.). If these ports are left open unnecessarily, attackers may use them to exploit vulnerabilities or gain unauthorized access.
 
@@ -27,7 +27,7 @@ For example, ports like 135, 139, and 445 are often associated with Windows netw
 # OUTPUT
 <img width="622" height="591" alt="Image" src="https://github.com/user-attachments/assets/f3561e7b-1740-4245-a4ac-2a347787f5b3" /> 
 
-2. Brute-Forcer Module
+# 2. Brute-Forcer Module
 
 The brute-forcer module is designed to simulate password-guessing attacks in a safe and controlled environment. Brute-force attacks occur when an attacker repeatedly tries different username and password combinations until the correct one is found. Although simple, this method remains one of the most common attack techniques due to weak or reused passwords.
 

@@ -32,3 +32,6 @@ For example, ports like 135, 139, and 445 are often associated with Windows netw
 The brute-forcer module is designed to simulate password-guessing attacks in a safe and controlled environment. Brute-force attacks occur when an attacker repeatedly tries different username and password combinations until the correct one is found. Although simple, this method remains one of the most common attack techniques due to weak or reused passwords.
 
 In this project, the brute-forcer tests credentials against a local login server, ensuring all activities remain legal and ethical. The tool iterates through a list of passwords and sends login attempts to the server. If a password matches the stored credentials, the tool identifies it as the correct password and stops the process. This feature helps users understand how weak passwords can be easily guessed, emphasizing the importance of strong authentication practices.
+
+# OUTPUT
+<img width="618" height="594" alt="Image" src="https://github.com/user-attachments/assets/aa138cf4-efb0-4e72-acf4-909caa3b0a1e" />
